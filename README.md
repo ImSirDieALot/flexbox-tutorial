@@ -1,6 +1,6 @@
 # Flexbox Tutorial
 
-##### What is Flexbox?
+### What is Flexbox?
 A CSS3 layout mode that provides an easy and clean way to arrange items within a container
 1. No floats
 2. Responsive and mobile friendly
