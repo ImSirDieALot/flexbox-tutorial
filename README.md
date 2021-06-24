@@ -12,6 +12,7 @@ A CSS3 layout mode that provides an easy and clean way to arrange items within a
 8. Built for small scale layouts
 
 ### The FlexBox Look
+![image of flexbox](https://github.com/ImSirDieALot/flexbox-tutorial/blob/main/assets/flex-box.png)
 1. Main Container - Flex Container (red box). This is where we assign the `display: flex` property. 
 2. Inside this main container we have the child items - `flex-items`
 3. There are X (main) and Y (cross) axis. We can use certain alignment properties to the elements across these axes
